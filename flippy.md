@@ -59,8 +59,8 @@ This iteration hopped, and it was definitely pathetic when it did so. However, i
 I focused the stretch of time before the hopper's final demo on making my hopper as cute as could possibly be. I thought my hopper already looked a bit like a mouse, so I decided to play off of that aesthetic. I tried several ear sizes, and different tail materials until I had my final product: Flippy.
 
 <p float="left">
-  <img src="https://everardog.github.io/img/portfolio/hopper_final_cad.jpg" width="200" />
-  <img src="https://everardog.github.io/img/portfolio/hopper_final.jpg" width="200" />
+  <img src="https://everardog.github.io/img/portfolio/hopper_final_cad.jpg" height="200" />
+  <img src="https://everardog.github.io/img/portfolio/hopper_final_1.jpg" height="200" />
 </p>
 
 Flippy performed beautifully when the time came for final demos. He hopped a whopping two inches off the demo table, flipped on his back, and then promptly fell on the floor. 
