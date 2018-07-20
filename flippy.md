@@ -60,7 +60,7 @@ I focused the stretch of time before the hopper's final demo on making my hopper
 
 <p float="left">
   <img src="https://everardog.github.io/img/portfolio/hopper_final_cad.jpg" height="200" />
-  <img src="https://everardog.github.io/img/portfolio/hopper_final_1.jpg" height="200" />
+  <img src="https://everardog.github.io/img/portfolio/3_hopper_small.jpg" height="200" />
 </p>
 
 Flippy performed beautifully when the time came for final demos. He hopped a whopping two inches off the demo table, flipped on his back, and then promptly fell on the floor. 
