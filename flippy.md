@@ -49,8 +49,8 @@ I found that the springy wire and suction cup were my best bets if I wanted a su
 The deadline for the final hopper was coming soon, and both my benchtop test models used materials that weren't allowed on the final hopper. I took what I learned from the benchtop tests and created something closer to the final hopper.
 
 <p float="left">
-  <img src="https://everardog.github.io/img/portfolio/hopper_zed_cad.jpg" width="200" />
-  <img src="https://everardog.github.io/img/portfolio/hopper_zed.jpg" width="200" /> 
+  <img src="https://everardog.github.io/img/portfolio/hopper_zed_cad.jpg" height="200" />
+  <img src="https://everardog.github.io/img/portfolio/hopper_zed.jpg" height="200" /> 
 </p>
 
 This iteration hopped, and it was definitely pathetic when it did so. However, it just was not cute enough for me to consider my design goal having been met.
