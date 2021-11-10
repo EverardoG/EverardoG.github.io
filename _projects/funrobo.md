@@ -1,12 +1,12 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+title: 'Autonomous Tugboat'
+subtitle: 'Adding autonomy to small tugboat'
+date: 2020-11-10 00:00:00
+description:
+featured_image: '/images/landing_page/landing_funrobo.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/landing_page/landing_funrobo.png)
 
 ## Demo content
 
