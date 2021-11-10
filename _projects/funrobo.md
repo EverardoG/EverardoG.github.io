@@ -1,6 +1,6 @@
 ---
 title: 'Autonomous Tugboat'
-subtitle: 'Adding autonomy to small tugboat'
+subtitle: 'Adding autonomy to a small tugboat'
 date: 2020-11-10 00:00:00
 description:
 featured_image: '/images/landing_page/landing_funrobo.png'
