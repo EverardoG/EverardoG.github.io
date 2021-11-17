@@ -77,9 +77,10 @@
 
 			// Get the link target
 			var thisTarget = $(this).attr('href');
+			console.log(42);
 
 			// If we don't want to use ajax, or the link is an anchor/mailto/tel
-			if ($(this).hasClass('js-no-ajax') || thisTarget.indexOf('#') >= 0 || thisTarget.indexOf('mailto:') >= 0 || thisTarget.indexOf('tel:') >= 0) {
+			if ($(this).hasClass('js-no-ajax') || thisTarget.indexOf('#') >= 0 || thisTarget.indexOf('mailto:') >= 0 || thisTarget.indexOf('tel:') >= 0 || thisTarget.indexOf('.pdf') >= 0 ) {
 
 				// Use the given link
 				window.location = thisTarget;

@@ -7,34 +7,13 @@
 ---
 
 
-<!-- | ![self-portrait](/images/portrait.jpg) | Caption | -->
-<!-- style="float:left;" -->
 <img src="/images/portrait_cropped2.jpg" style="width:200px">
 
-<!-- <table width="500px" >
-  <tbody>
-  <tr>
-    <td align="right" style="vertical-align:top;">
-      <p>
-        <b>Thas me</b>
-      </p>
-    </td>
-    <td align="left">	
-      <img width="150" height="150" src="/images/portrait_cropped.jpg" alt="" border="0"/>  
-    </td>
-  </tr>
-  </tbody>
-</table> -->
-
-<!-- ![portrait](/images/portrait.jpg){: style="float: left"} -->
-
-<!-- This is me in Spain with my rope dart. -->
-
-## Personal Statement
+<!-- ### Personal Statement -->
 
 I am a Robotics PhD student at Oregon State University researching multi-agent systems in Professor Kagan Tumer's lab. My current research interests include decentralized multi-agent coordination and multi-agent learning. I am also interested in finding applications of robotics that can help us better understand or even combat climate change, especially as it pertains to our oceans. My background includes hands-on robotics system prototyping and robotics software development. Alongside my technical research, I seek to contribute to diversity, equity, and inclusion within and outside of engineering.
 
-## Education
+### Education
 
 **Oregon State University** | _Corvallis, OR_ | In-Progress  
 PhD and Master of Science in Robotics
@@ -45,7 +24,16 @@ Bachelor of Science in Engineering: Concentration in Robotics
 **Universidad de Sevilla** | _Sevilla, Spain_ | Spring 2020  
 Semester abroad during Olin degree. Studied flamenco, photography, painting, and cooking.
 
+### Honors and Awards
 
+**Oregon State University** | September 2021 - 2022  
+Provost's Distinguished Graduate Fellowship
+
+**Olin College of Engineering** | Fall 2017 - May 2021  
+4-year Half-Tuition Academic Merit Scholarship
+
+**Allegheny Conference Case Competition** | Summer 2020  
+Won 3rd place and $1k total with 4-person team for Virtual-Reality solution to enriching college social life despite COVID restrictions
 
 
 <!-- ![](/images/demo/demo-landscape.jpg) -->
