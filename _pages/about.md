@@ -1,7 +1,7 @@
 ---
 # title: About
-# subtitle: 
-# Robotics PhD student at Oregon State University, 
+# subtitle:
+# Robotics PhD student at Oregon State University,
 # description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
 # featured_image: /images/demo/demo-landscape.jpg
 ---
@@ -11,28 +11,28 @@
 
 <!-- ### Personal Statement -->
 
-I am a Robotics PhD student at Oregon State University researching multi-agent systems in Professor Kagan Tumer's lab. My current research interests include decentralized multi-agent coordination and multi-agent learning. I am also interested in finding applications of robotics that can help us better understand or even combat climate change, especially as it pertains to our oceans. My background includes hands-on robotics system prototyping and robotics software development. Alongside my technical research, I seek to contribute to diversity, equity, and inclusion within and outside of engineering.
+I am a Robotics PhD student at Oregon State University researching multiagent learning in Dr. Kagan Tumer's lab. My current research focuses on developing novel methods for learning coordination in a swarm, with a long term focus on applying these methods on underwater robots. This long term focus interests me because of the direct applications to studying and combatting climate change in our oceans with the help of underwater robots. My background includes hands-on robotics system prototyping and robotics software development. Alongside my technical research, I seek to contribute to diversity, equity, and inclusion within and outside of engineering.
 
 ### Education
 
-**Oregon State University** | _Corvallis, OR_ | In-Progress  
+**Oregon State University** | _Corvallis, OR_ | In-Progress
 PhD and Master of Science in Robotics
 
-**Olin College of Engineering** | _Needham, MA_ | May 2021  
+**Olin College of Engineering** | _Needham, MA_ | May 2021
 Bachelor of Science in Engineering: Concentration in Robotics
 
-**Universidad de Sevilla** | _Sevilla, Spain_ | Spring 2020  
+**Universidad de Sevilla** | _Sevilla, Spain_ | Spring 2020
 Semester abroad during Olin degree. Studied flamenco, photography, painting, and cooking.
 
 ### Honors and Awards
 
-**Oregon State University** | September 2021 - 2022  
+**Oregon State University** | September 2021 - 2022
 Provost's Distinguished Graduate Fellowship
 
-**Olin College of Engineering** | Fall 2017 - May 2021  
+**Olin College of Engineering** | Fall 2017 - May 2021
 4-year Half-Tuition Academic Merit Scholarship
 
-**Allegheny Conference Case Competition** | Summer 2020  
+**Allegheny Conference Case Competition** | Summer 2020
 Won 3rd place and $1k total with 4-person team for Virtual-Reality solution to enriching college social life despite COVID restrictions
 
 
