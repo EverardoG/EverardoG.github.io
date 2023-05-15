@@ -15,7 +15,7 @@
 
 I am a Robotics PhD student at Oregon State University researching multiagent learning in Dr. Kagan Tumer’s lab. My current research focuses on designing reward shaping techniques to apply multiagent learning to coordinating large swarms of robots. I am more broadly interested in bringing my robotics and machine learning background to improving the autonomy of underwater vehicles. This long term focus interests me because of the direct applications to studying and combating climate change in our oceans with the help of underwater robots. Alongside my technical research, I seek to contribute to diversity, equity, and inclusion within robotics.
 
-If you would like to learn more about me, please have a look at the other pages on this site. I include links to publications, projects, github, and all the other usual suspects.
+If you would like to learn more about me, please have a look at the other pages on this site. I include links to [publications](https://everardog.github.io/publications), [projects](https://everardog.github.io/), [cv](https://everardog.github.io/files/CV.pdf), [github](https://github.com/EverardoG), [linkedin](https://www.linkedin.com/in/everardo-gonzalez-0b0a76114/) and all the other usual suspects.
 
 <!-- ### Education
 
