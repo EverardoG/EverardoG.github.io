@@ -7,13 +7,17 @@
 ---
 
 
-<img src="/images/portrait_cropped2.jpg" style="width:200px">
+<img src="/images/portrait_2023.JPG" style="width:400px">
 
 <!-- ### Personal Statement -->
 
-I am a Robotics PhD student at Oregon State University researching multiagent learning in Dr. Kagan Tumer's lab. My current research focuses on developing novel methods for learning coordination in a swarm, with a long term focus on applying these methods on underwater robots. This long term focus interests me because of the direct applications to studying and combatting climate change in our oceans with the help of underwater robots. My background includes hands-on robotics system prototyping and robotics software development. Alongside my technical research, I seek to contribute to diversity, equity, and inclusion within and outside of engineering.
+<!-- I am a Robotics PhD student at Oregon State University researching multiagent learning in Dr. Kagan Tumer's lab. My current research focuses on developing novel methods for learning coordination in a swarm, with a long term focus on applying these methods on underwater robots. This long term focus interests me because of the direct applications to studying and combatting climate change in our oceans with the help of underwater robots. My background includes hands-on robotics system prototyping and robotics software development. Alongside my technical research, I seek to contribute to diversity, equity, and inclusion within and outside of engineering. -->
 
-### Education
+I am a Robotics PhD student at Oregon State University researching multiagent learning in Dr. Kagan Tumer’s lab. My current research focuses on designing reward shaping techniques to apply multiagent learning to coordinating large swarms of robots. I am more broadly interested in bringing my robotics and machine learning background to improving the autonomy of underwater vehicles. This long term focus interests me because of the direct applications to studying and combating climate change in our oceans with the help of underwater robots. Alongside my technical research, I seek to contribute to diversity, equity, and inclusion within robotics.
+
+If you would like to learn more about me, please have a look at the other pages on this site. I include links to publications, projects, github, and all the other usual suspects.
+
+<!-- ### Education
 
 **Oregon State University** | _Corvallis, OR_ | In-Progress
 PhD and Master of Science in Robotics
@@ -32,8 +36,7 @@ Provost's Distinguished Graduate Fellowship
 **Olin College of Engineering** | Fall 2017 - May 2021
 4-year Half-Tuition Academic Merit Scholarship
 
-**Allegheny Conference Case Competition** | Summer 2020
-Won 3rd place and $1k total with 4-person team for Virtual-Reality solution to enriching college social life despite COVID restrictions
+**Allegheny Conference Case Competition** \| Summer 2020 \| Won 3rd place and $1k total with 4-person team for Virtual-Reality solution to enriching college social life despite COVID restrictions -->
 
 
 <!-- ![](/images/demo/demo-landscape.jpg) -->

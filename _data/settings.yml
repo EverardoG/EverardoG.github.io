@@ -19,10 +19,13 @@ menu_settings:
     #   url: '/contact'
     - title: 'About'
       url: '/about'
+    - title: 'Curriculum Vitae'
+      url: 'https://everardog.github.io/files/CV.pdf'
     - title: 'Publications'
       url: '/publications'
     - title: 'Projects'
       url: '/'
+
 
 grid_settings:
   overlay_opacity: 0.8
