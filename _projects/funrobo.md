@@ -67,7 +67,7 @@ allowfullscreen></iframe>
 
 Here we see Lesley on her fourth and final mission - undock and chase the pink narwhal! The objective was to undock, locate, and tag the boat with the pink narwhal. Alas, I don't have video of the entire mission, so we'll have to settle for a small snippet. Lesley isn't particularly successful in this portion of the mission, as she fails to actually locate the narwhal, instead perceiving it as an obstacle and attempting to avoid it. This is due to the fact that Lesley can only see the narwhal with her PixyCam, which is mounted her front. Only later, does she finally see the narwhal, and tag it.
 
-### My Contribution
+### My Contributions
 
 I managed this team to ensure that we could deliver a robot boat that could accomplish all of our missions. I planned with my team how to set up our sensing array to best accomodate our autonomy algorithms, and created our sensor mounts. My technical contributions also included setting up remote communication with the robot, and writing and testing control software for the first two missions.
 
