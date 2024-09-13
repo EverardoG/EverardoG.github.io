@@ -6,13 +6,13 @@ title: Publications
 # featured_image: /images/demo/demo-landscape.jpg
 ---
 
-\[6\] **Everardo Gonzalez**, and Kagan Tumer. 2023. “**Reward Shaping for Intelligent Swarm Coordination**”. In International Symposium on Multi-Robot & Multi-Agent Systems (MRS '23). *Planned Submission*
+\[6\] **Everardo Gonzalez**, Siddarth Viswanathan, and Kagan Tumer. 2024. **Influence Based Fitness Shaping for Coevolutionary Agents**. In Proceedings of The Genetic and Evolutionary Computation Conference 2024 (GECCO 2024). AMC, New Year, NY, USA, 9 pages. [ACM Link](https://dl.acm.org/doi/pdf/10.1145/3638529.3654175)
 
-\[5\] Nick Zerbel, **Everardo Gonzalez**, and Kagan Tumer. 2023. “**Counterfactual Perception Shaping for Supervised Multi-Robot Systems**”. In International Symposium on Multi-Robot & Multi-Agent Systems (MRS '23). *Planned Submission*
+\[5\] **Everardo Gonzalez**, Siddarth Viswanathan, and Kagan Tumer. 2024. **Indirect Credit Assignment in a Multiagent System**: Extended Abstract. In Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024), Auckland, New Zealand, May 6 - 10, IFAAMAS, 3 pages. [AAMAS Link](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2288.pdf)
 
-\[4\] Gaurav Dixit, **Everardo Gonzalez**, and Kagan Tumer. 2022. **Diversifying behaviors for learning in asymmetric multiagent systems**. In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO '22). Association for Computing Machinery, New York, NY, USA, 350–358. https://doi.org/10.1145/3512290.3528860. [ACM Link](https://dl.acm.org/doi/pdf/10.1145/3512290.3528860?casa_token=7xNVitEJ2_YAAAAA:Z8ljBik99rt302cw5qxarsV_aY7YagAYF8uZbftffIFgnmWjBVaEMCZM7-v0CJwKLBcSYp25Co8R)
+\[4\] Gaurav Dixit, **Everardo Gonzalez**, and Kagan Tumer. 2022. **Diversifying behaviors for learning in asymmetric multiagent systems**. In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2022). Association for Computing Machinery, New York, NY, USA, 350–358. https://doi.org/10.1145/3512290.3528860. [ACM Link](https://dl.acm.org/doi/pdf/10.1145/3512290.3528860?casa_token=7xNVitEJ2_YAAAAA:Z8ljBik99rt302cw5qxarsV_aY7YagAYF8uZbftffIFgnmWjBVaEMCZM7-v0CJwKLBcSYp25Co8R)
 
-\[3\] **Everardo Gonzalez**, Lucie Houel, Radhika Nagpal, and Melinda Malley. 2022. **Influencing Emergent Self-Assembled Structures in Robotic Collectives Through Traffic Control**. In Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS '22). International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 1601–1603. [AAMAS Link](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1601.pdf)
+\[3\] **Everardo Gonzalez**, Lucie Houel, Radhika Nagpal, and Melinda Malley. 2022. **Influencing Emergent Self-Assembled Structures in Robotic Collectives Through Traffic Control**: Extended Abstract. In Proceedings of the 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022). International Foundation for Autonomous Agents and Multiagent Systems, Richland, SC, 1601–1603. [AAMAS Link](https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p1601.pdf)
 
 \[2\] E. J. Martin, Benjamin Erwin, Kakani Katija, Amy Phung, **Everardo Gonzalez**, Susan Von Thun, Heidi Cullen, and Steven H.D.Haddock, "**A Virtual Reality Video System for Deep Ocean Remotely Operated Vehicles**," OCEANS 2021: San Diego – Porto, San Diego, CA, USA, 2021, pp. 1-6, doi: 10.23919/OCEANS44145.2021.9705810. [IEE Link](https://ieeexplore.ieee.org/document/9705810)
 
