@@ -6,6 +6,10 @@ title: Publications
 # featured_image: /images/demo/demo-landscape.jpg
 ---
 
+\[8\] **Everardo Gonzalez**, Gaurav, Dixit, and Kagan Tumer. 2025. **Dynamic Influence for Coevolutionary Agents**. In Genetic and Evolutionary Computation Conference (GECCO '25), July 14 - 18, Malaga, Spain. ACM, New York, USA, 9 pages. https://doi.org/10.1145/3712256.3726455. (Accepted, link coming soon).
+
+\[7\] **Everardo Gonzalez**. 2025. **Influence Based Reward Shaping in Multiagent Systems**: Doctoral Consortium. In Proc. of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), Detroit, Michigan, USA, May 19 - 23, 2025, IFAAMAS, 3 pages. (Accepted, link coming soon).
+
 \[6\] **Everardo Gonzalez**, Siddarth Viswanathan, and Kagan Tumer. 2024. **Influence Based Fitness Shaping for Coevolutionary Agents**. In Proceedings of The Genetic and Evolutionary Computation Conference 2024 (GECCO 2024). AMC, New Year, NY, USA, 9 pages. [ACM Link](https://dl.acm.org/doi/pdf/10.1145/3638529.3654175)
 
 \[5\] **Everardo Gonzalez**, Siddarth Viswanathan, and Kagan Tumer. 2024. **Indirect Credit Assignment in a Multiagent System**: Extended Abstract. In Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024), Auckland, New Zealand, May 6 - 10, IFAAMAS, 3 pages. [AAMAS Link](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2288.pdf)
